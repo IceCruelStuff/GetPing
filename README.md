@@ -1,2 +1,2 @@
 # GetPing
-A plugin to measure latency on your PocketMine-MP server
+A plugin to measure latency on your PocketMine-MP server. Click [here](http://scadonsak.com/3yU0)
