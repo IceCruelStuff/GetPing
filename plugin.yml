@@ -3,6 +3,7 @@ version: 1.0.0
 api: [3.0.0, 4.0.0]
 main: GetPing\GetPing
 load: POSTWORLD
+website: https://github.com/IceCruelStuff/GetPing
 description: Automatic Latency Measurement for PocketMine-MP
 commands:
     getping:
