@@ -8,7 +8,7 @@ use pocketmine\event\Listener;
 use pocketmine\utils\Binary;
 use pocketmine\event\player\PlayerQuitEvent;
 use pocketmine\event\server\DataPacketReceiveEvent;
-class Main extends PluginBase implements CommandExecutor, Listener {
+class GetPing extends PluginBase implements CommandExecutor, Listener {
 	protected $lastPing;
 	public function onEnable() : void{
 		$this->lastPing = [];
