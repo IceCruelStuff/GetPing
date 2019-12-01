@@ -1,11 +1,12 @@
 name: GetPing
 version: 1.0.0
 api: [3.0.0, 4.0.0]
+main: GetPing\GetPing
 load: POSTWORLD
 description: Automatic Latency Measurement
 commands:
     getping:
-        description: show latency infomration
+        description: Show latency infomration
         usage: "/getping"
 
 permissions:
