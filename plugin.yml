@@ -1,0 +1,16 @@
+name: GetPing
+version: 1.1
+api: 3.0.0, 4.0.0
+main: GetPing\GetPing
+load: POSTWORLD
+website: https://github.com/IceCruelStuff/GetPing
+description: Automatic Latency Measurement for PocketMine-MP
+commands:
+    getping:
+        description: "Show latency infomration"
+        usage: "/getping"
+
+permissions:
+    getping.cmd:
+        default: true
+        description: "Show latency information"
